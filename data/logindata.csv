@@ -1,0 +1,3 @@
+testName,email,password
+validlogin,gattikrithi@gmail.com,Admin
+Invalidlogin,gattikrithii@gmail.com,Admin1
