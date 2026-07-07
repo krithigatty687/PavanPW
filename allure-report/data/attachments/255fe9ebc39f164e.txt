@@ -1,0 +1,10 @@
+the error is Error: locator.fill: Test ended.
+Call log:
+  - waiting for locator('input[name="email"]')
+    - waiting for" http://localhost/opencart/upload/index.php?route=account/login" navigation to finish...
+
+the error is Error: locator.fill: Test ended.
+Call log:
+  - waiting for locator('#input-password')
+    - waiting for" http://localhost/opencart/upload/index.php?route=account/login" navigation to finish...
+

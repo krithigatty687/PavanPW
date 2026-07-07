@@ -5,7 +5,6 @@ import {Accountpage} from '../pages/Accountpage'
 import {Logoutpage} from '../pages/Logoutpage'
 import {TestConfig} from '../test.config'
 import  {randomdatagenerator} from  '../utils/randomdatagenerator'
-import { log } from 'console'
 
 let testConfig:TestConfig
 let loginpage:LoginPage
